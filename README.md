@@ -8,7 +8,7 @@ pkg install python -y
 pkg install git -y
 git clone https://github.com/ManzsModz/TOOLSVIP.git
 cd TOOLSVIP
-python TOOLS.py
+python TOOLSVIP.py
 ```
 jika pass python TOOLS.py nya itu di jalankannya sangat lama tunggu aja sampe selesai, mungkin cuma 10 detik
 
